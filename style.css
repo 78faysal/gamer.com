@@ -485,7 +485,7 @@ footer {
     .careers-section {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
-        padding: 30px;
+        padding: 50px;
         gap: 20px;
     }
 
@@ -504,7 +504,7 @@ footer {
         gap: 20px;
     }
     .games p {
-        font-size: 5px;
+        font-size: 10px;
     }
     .games img {
         width: 5vw;
