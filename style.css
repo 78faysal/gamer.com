@@ -503,7 +503,9 @@ footer {
         grid-template-columns: repeat(3, 1fr);
         gap: 20px;
     }
-
+    .games p {
+        font-size: 5px;
+    }
     .games img {
         width: 5vw;
         height: 3vh;
